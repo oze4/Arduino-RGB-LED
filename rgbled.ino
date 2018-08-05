@@ -15,8 +15,8 @@ rgbled led1(9, 10, 11); // 9 is the pin Red is plugged into
 
 /* ~ if you had a second RGB LED
 rgbled led2(5, 6, 7) // or whichever ports on the Arduino they're plugged into
-		     // 5 is the pin Green is plugged into
-		     // 6 is the pin Blue is plugged into
+		     // 5 is the pin Red is plugged into
+		     // 6 is the pin Green is plugged into
 		     // 7 is the pin Blue is plugged into
 */
 
