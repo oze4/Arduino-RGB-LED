@@ -1,4 +1,8 @@
-// rgbled.h
+/*
+Header file for source code 'rgbled.cpp'
+This class allows you to control an RGB LED on an Arduino Uno
+Author: Matt Oestreich
+*/
 
 #ifndef _RGBLED_h
 #define _RGBLED_h
