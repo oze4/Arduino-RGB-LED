@@ -11,24 +11,24 @@
 
 class rgbled
 {
-public:
-	rgbled(int redPin, int greenPin, int bluePin);
-	void mainColors(int changeDelay);
-	void showRgb(int color);
-	void showRgbColorSpectrum(int fadeDelay);
-	void red();
-	void green();
-	void blue();
-	void yellow();
-	void cyan();
-	void purple();
-	void white();
-	void ledOff();
+	public:
+		rgbled(int redPin, int greenPin, int bluePin);
+		void mainColors(int changeDelay);
+		void showRgb(int color);
+		void showRgbColorSpectrum(int fadeDelay);
+		void red();
+		void green();
+		void blue();
+		void yellow();
+		void cyan();
+		void purple();
+		void white();
+		void ledOff();
 
-private:
-	int _redPin;
-	int _greenPin;
-	int _bluePin;
+	private:
+		int _redPin;
+		int _greenPin;
+		int _bluePin;
 };
 
 #endif
