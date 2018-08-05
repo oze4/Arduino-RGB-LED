@@ -3,7 +3,7 @@
 
 <h6>Example of led.showRgbColorSpectrum(100); (sped up 2.5x)</h6>
 
-![Alt Text](https://i.imgur.com/eigNi7I.gif)
+![Alt Text](https://i.imgur.com/eigNi7I.mp4)
 
 <h6>Circuit Diagram</h6>
 
