@@ -3,6 +3,10 @@
 
 <h6>Example of <code>led.showRgbColorSpectrum(100);</code> (sped up 2.5x)</h6>
 
+```C++
+led.showRgbColorSpectrum(100);
+```
+
 <img src="./docs/rgbled_showRgbColorSpectrum(10).gif" width="500px">
 
 <h6>Circuit Diagram</h6>
